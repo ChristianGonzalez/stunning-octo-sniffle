@@ -1,8 +1,8 @@
 {
-    'monsters': [
+    "monsters": [
         {
-            'id': '1',
-            'name': 'bob'
+            "id": "1",
+            "name": "bob"
         }
     ]
 }
